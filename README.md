@@ -6,5 +6,4 @@
 ##### Remove `PREFIX` and replace it with your bot's prefix.
 ##### Remove `TOKEN` and replace it with your bot's token.
 ##### Remove `channelID` and replace it with your verification channel's ID.
-# 
-# 
+#
